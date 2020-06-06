@@ -1,7 +1,7 @@
 
 // Linked list model
 
-class Node<item> {
+class LinkNode<item> {
     item: item;
     next: LinkNode<item>;
 };
